@@ -1,0 +1,5 @@
+dt=1/30 apogeu=73.33 px em 0.367 s; volta à altura inicial em 0.767 s
+dt=1/60 apogeu=76.67 px em 0.383 s; volta à altura inicial em 0.783 s
+dt=1/144 apogeu=78.62 px em 0.396 s; volta à altura inicial em 0.799 s
+dt=1/240 apogeu=79.17 px em 0.396 s; volta à altura inicial em 0.796 s
+queda livre: atinge MAX_FALL_SPEED=450 px/s em 0.450 s
